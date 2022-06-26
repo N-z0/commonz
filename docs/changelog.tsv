@@ -4,3 +4,4 @@
 2021/10/3	2.0.0	UpTwo	add translation module;upgrade log system;upgrade config module;fix yml parser;fix vector scale
 2021/11/4	3.0.0	Treble	add platform module;upgrade pathnames and checks modules in fs
 2022/06/4	4.0.0	Quad	add array module for fast vector matrix calculation;upgrade graphic modules;and multi-context option for the log module
+2022/06/26	4.0.1	Qf	fix some missing licences lines
